@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="Game_of_Thrones">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="Charakter"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Charakter">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Herkunft"/>
+        <xs:element ref="Fraktion"/>
+        <xs:element ref="Religion"/>
+        <xs:element ref="Tätigkeit"/>
+        <xs:element ref="Status"/>
+      </xs:sequence>
+      <xs:attribute name="name" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Herkunft" type="xs:string"/>
+  <xs:element name="Fraktion" type="xs:string"/>
+  <xs:element name="Religion" type="xs:string"/>
+  <xs:element name="Tätigkeit" type="xs:string"/>
+  <xs:element name="Status">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" ref="Todesursache"/>
+        <xs:element ref="letzte_Folge"/>
+      </xs:sequence>
+      <xs:attribute name="status" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Todesursache" type="xs:string"/>
+  <xs:element name="letzte_Folge" type="xs:integer"/>
+</xs:schema>

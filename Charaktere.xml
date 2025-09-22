@@ -1,0 +1,1138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Game_of_Thrones>
+    <Charakter name="Aegon I. Targaryen">
+        <Herkunft>Westeros</Herkunft>
+        <Fraktion>Haus Targaryen</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Eroberer</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>unbekannt</Todesursache>
+            <letzte_Folge>0</letzte_Folge>
+        </Status>
+    </Charakter>
+
+    <Charakter name="Aemon Targaryen">
+        <Herkunft>Königsmund</Herkunft>
+        <Fraktion>Haus Targaryen</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Nachtwächter</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>Altersschwäche</Todesursache>
+            <letzte_Folge>47</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Aeron Graufreud">
+        <Herkunft>unbekannt</Herkunft>
+        <Fraktion>Haus Graufreud</Fraktion>
+        <Religion>Der ertrunkene Gott</Religion>
+        <Tätigkeit>Priester</Tätigkeit>
+        <Status status="am Leben">
+            <letzte_Folge>55</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Aerys II. Targaryen">
+        <Herkunft>Königsmund</Herkunft>
+        <Fraktion>Haus Targaryen</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>König</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>von Jaime Lennister erstochen</Todesursache>
+            <letzte_Folge>0</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Allisar Thorn">
+        <Herkunft>unbekannt</Herkunft>
+        <Fraktion>Haus Thorn</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Nachtwächter</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>durch Jon Snow als Verräter erhängt</Todesursache>
+            <letzte_Folge>53</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Areo Hotah">
+        <Herkunft>Norvos</Herkunft>
+        <Fraktion>Haus Martell</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Leibwächter von Doran Martell</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>von Tyene Sand mit einem Dolch erstochen</Todesursache>
+            <letzte_Folge>51</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Arya Stark">
+        <Herkunft>Winterfell</Herkunft>
+        <Fraktion>Haus Stark</Fraktion>
+        <Religion>Gott des Todes</Religion>
+        <Tätigkeit>Gesichtsloser Mann</Tätigkeit>
+        <Status status="am Leben">
+            <letzte_Folge>67</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Asha Graufreud">
+        <Herkunft>Peik</Herkunft>
+        <Fraktion>Haus Graufreud</Fraktion>
+        <Religion>Der ertrunkene Gott</Religion>
+        <Tätigkeit>Kriegerin</Tätigkeit>
+        <Status status="unbekannt">
+            <letzte_Folge>63</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Balon Graufreud">
+        <Herkunft>Peik</Herkunft>
+        <Fraktion>Haus Graufreud</Fraktion>
+        <Religion>Der ertrunkene Gott</Religion>
+        <Tätigkeit>Oberhaupt des Hauses Graufreud</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>von Euron Graufreud von einer Brücke gestoßen</Todesursache>
+            <letzte_Folge>52</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Barristan Selmy">
+        <Herkunft>Sturmlande</Herkunft>
+        <Fraktion>Haus Selmy</Fraktion>
+        <Religion>Glaube an die Sieben</Religion>
+        <Tätigkeit>Ritter</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>wurde im Kampf gegen die Söhne der Harpyie getötet</Todesursache>
+            <letzte_Folge>44</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Beric Dondarrion">
+        <Herkunft>Schwarzburg</Herkunft>
+        <Fraktion>Haus Dondarrion</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Oberhaupt des Hauses Dondarrion</Tätigkeit>
+        <Status status="unbekannt">
+            <letzte_Folge>67</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Brandon Stark">
+        <Herkunft>Winterfell</Herkunft>
+        <Fraktion>Haus Stark</Fraktion>
+        <Religion>Die alten Götter des Waldes</Religion>
+        <Tätigkeit>Dreiäugiger Rabe</Tätigkeit>
+        <Status status="am Leben">
+            <letzte_Folge>67</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Brienne von Tarth">
+        <Herkunft>Tarth</Herkunft>
+        <Fraktion>Haus Tarth</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Dienerin der Starks</Tätigkeit>
+        <Status status="am Leben">
+            <letzte_Folge>67</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Brynden Tully">
+        <Herkunft>Schnellwasser</Herkunft>
+        <Fraktion>Haus Tully</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Lord von Schnellwasser</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>im Kampf gegen Lennister-Soldaten getötet worden</Todesursache>
+            <letzte_Folge>58</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Catelyn Stark">
+        <Herkunft>Schnellwasser</Herkunft>
+        <Fraktion>Haus Tully</Fraktion>
+        <Religion>Glaube an die Sieben</Religion>
+        <Tätigkeit>Lady von Winterfell</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>von Walder Strom die Kehle durchgeschnitten</Todesursache>
+            <letzte_Folge>29</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Cersei Lennister">
+        <Herkunft>Westlande</Herkunft>
+        <Fraktion>Haus Lennister</Fraktion>
+        <Religion>Glaube an die Sieben</Religion>
+        <Tätigkeit>Königin</Tätigkeit>
+        <Status status="am Leben">
+            <letzte_Folge>67</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Craster">
+        <Herkunft>Crasters Bergfried</Herkunft>
+        <Fraktion>unbekannt</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Wildling</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>erstochen von Karl Tanner</Todesursache>
+            <letzte_Folge>24</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Daario Naharis">
+        <Herkunft>Tyrosh</Herkunft>
+        <Fraktion>Die Zweitgeborenen</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Diener von Daenerys Targaryen</Tätigkeit>
+        <Status status="am Leben">
+            <letzte_Folge>60</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Daenerys Targaryen">
+        <Herkunft>Drachenstein</Herkunft>
+        <Fraktion>Haus Targaryen</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Königin</Tätigkeit>
+        <Status status="am Leben">
+            <letzte_Folge>67</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Davos Seewert">
+        <Herkunft>Königsmund</Herkunft>
+        <Fraktion>Haus Seewert</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Ritter</Tätigkeit>
+        <Status status="am Leben">
+            <letzte_Folge>67</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Doran Martell">
+        <Herkunft>Sonnspeer</Herkunft>
+        <Fraktion>Haus Martell</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Oberhaupt des Hauses Martell</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>erstochen von Ellaria Sand</Todesursache>
+            <letzte_Folge>51</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Eddison Tollett">
+        <Herkunft>unbekannt</Herkunft>
+        <Fraktion>Haus Tollett</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Nachtwächter</Tätigkeit>
+        <Status status="am Leben">
+            <letzte_Folge>61</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Eddard Stark">
+        <Herkunft>Winterfell</Herkunft>
+        <Fraktion>Haus Stark</Fraktion>
+        <Religion>Die alten Götter des Waldes</Religion>
+        <Tätigkeit>Lord von Winterfell</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>auf Anweisung von König Joffrey Baratheon hingerichtet</Todesursache>
+            <letzte_Folge>9</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Edmure Tully">
+        <Herkunft>Schnellwasser</Herkunft>
+        <Fraktion>Haus Tully</Fraktion>
+        <Religion>Glaube an die Sieben</Religion>
+        <Tätigkeit>Lord von Schnellwasser</Tätigkeit>
+        <Status status="am Leben">
+            <letzte_Folge>58</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Ellaria Sand">
+        <Herkunft>Dorne</Herkunft>
+        <Fraktion>Haus Martell</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Geliebte von Oberyn Martell von Dorne</Tätigkeit>
+        <Status status="unbekannt">
+            <letzte_Folge>63</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Euron Graufreud">
+        <Herkunft>Eiseninseln</Herkunft>
+        <Fraktion>Haus Graufreud</Fraktion>
+        <Religion>Der ertrunkene Gott</Religion>
+        <Tätigkeit>König</Tätigkeit>
+        <Status status="am Leben">
+            <letzte_Folge>67</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Garlan Tyrell">
+        <Herkunft>Rosengarten</Herkunft>
+        <Fraktion>Haus Tyrell</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Ritter</Tätigkeit>
+        <Status status="am Leben">
+            <letzte_Folge>0</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Gendry">
+        <Herkunft>Königsmund</Herkunft>
+        <Fraktion>unbekannt</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Waffenschmied</Tätigkeit>
+        <Status status="am Leben">
+            <letzte_Folge>66</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Goldy">
+        <Herkunft>Crasters Bergfried</Herkunft>
+        <Fraktion>unbekannt</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Tochter und Frau von Craster</Tätigkeit>
+        <Status status="am Leben">
+            <letzte_Folge>67</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Gregor Clegane">
+        <Herkunft>Westlande</Herkunft>
+        <Fraktion>Haus Clegane</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Ritter</Tätigkeit>
+        <Status status="am Leben">
+            <letzte_Folge>67</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Hizdahr zo Loraq">
+        <Herkunft>unbekannt</Herkunft>
+        <Fraktion>Große Meister</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Sohn eines Sklavenmeisters von Meereen</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>ermordet durch die Söhne der Harpyie</Todesursache>
+            <letzte_Folge>49</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Hodor">
+        <Herkunft>Winterfell</Herkunft>
+        <Fraktion>Haus Stark</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Diener der Starks</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>getötet durch die Wiedergänger</Todesursache>
+            <letzte_Folge>55</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Hoster Tully">
+        <Herkunft>Schnellwasser</Herkunft>
+        <Fraktion>Haus Tully</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Oberhaupt des Hauses Tully</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>lange Krankheit</Todesursache>
+            <letzte_Folge>23</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Illyrio Mopatis">
+        <Herkunft>unbekannt</Herkunft>
+        <Fraktion>Haus Targaryen</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Händler</Tätigkeit>
+        <Status status="am Leben">
+            <letzte_Folge>5</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Ilyn Payn">
+        <Herkunft>Westlande</Herkunft>
+        <Fraktion>Haus Payn</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Ritter</Tätigkeit>
+        <Status status="am Leben">
+            <letzte_Folge>19</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Jaime Lennister">
+        <Herkunft>Casterlystein</Herkunft>
+        <Fraktion>Haus Lennister</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Krieger</Tätigkeit>
+        <Status status="am Leben">
+            <letzte_Folge>67</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Jeor Mormont">
+        <Herkunft>Bäreninsel</Herkunft>
+        <Fraktion>Haus Mormont</Fraktion>
+        <Religion>Die alten Götter des Waldes</Religion>
+        <Tätigkeit>Nachtwächter</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>erdolcht durch Rast</Todesursache>
+            <letzte_Folge>24</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Joffrey Baratheon">
+        <Herkunft>Königsmund</Herkunft>
+        <Fraktion>Haus Baratheon von Königsmund</Fraktion>
+        <Religion>Glaube an die Sieben</Religion>
+        <Tätigkeit>König</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>vergiftet auf seiner Hochzeit von Olenna Tyrell</Todesursache>
+            <letzte_Folge>33</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Jojen Reet">
+        <Herkunft>Grauwasserwacht</Herkunft>
+        <Fraktion>Haus Reet</Fraktion>
+        <Religion>Die alten Götter des Waldes</Religion>
+        <Tätigkeit>Grünseher</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>von Wiedergänger mit Messer tödlich verwundet</Todesursache>
+            <letzte_Folge>40</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Jon Arryn">
+        <Herkunft>Tal von Arryn</Herkunft>
+        <Fraktion>Haus Arryn</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Oberhaupt des Hauses Arryn</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>von Petyr Baelish über seine Ehefrau Lysa mit den Tränen von Lys vergiftet</Todesursache>
+            <letzte_Folge>1</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Jon Snow">
+        <Herkunft>Dorne</Herkunft>
+        <Fraktion>Haus Targaryen</Fraktion>
+        <Religion>Die alten Götter des Waldes</Religion>
+        <Tätigkeit>König</Tätigkeit>
+        <Status status="am Leben">
+            <letzte_Folge>67</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Jorah Mormont">
+        <Herkunft>Bäreninsel</Herkunft>
+        <Fraktion>Haus Targaryen</Fraktion>
+        <Religion>Die alten Götter des Waldes</Religion>
+        <Tätigkeit>Ritter</Tätigkeit>
+        <Status status="am Leben">
+            <letzte_Folge>67</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Kevan Lennister">
+        <Herkunft>Casterlystein</Herkunft>
+        <Fraktion>Haus Lennister</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Ritter</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>bei der Zerstörung der Großen Septe von Baelor verbrannt</Todesursache>
+            <letzte_Folge>60</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Khal Drogo">
+        <Herkunft>Dothrakisches Meer</Herkunft>
+        <Fraktion>unbekannt</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Fürst der Dothraki</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>von Daenerys Targaryen erstickt</Todesursache>
+            <letzte_Folge>10</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Lancel Lennister">
+        <Herkunft>Casterlystein</Herkunft>
+        <Fraktion>Haus Lennister</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Ritter</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>durch Seefeuer verbrannt</Todesursache>
+            <letzte_Folge>60</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Loras Tyrell">
+        <Herkunft>Rosengarten</Herkunft>
+        <Fraktion>Haus Tyrell</Fraktion>
+        <Religion>Glaube an die Sieben</Religion>
+        <Tätigkeit>Ritter</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>durch Seefeuer verbrannt</Todesursache>
+            <letzte_Folge>60</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Luwin">
+        <Herkunft>unbekannt</Herkunft>
+        <Fraktion>Haus Stark</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Diener der Starks</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>von Dagmer Spaltkinn mit dem Speer niedergestochen</Todesursache>
+            <letzte_Folge>20</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Lyanna Stark">
+        <Herkunft>Winterfell</Herkunft>
+        <Fraktion>Haus Stark</Fraktion>
+        <Religion>Die alten Götter des Waldes</Religion>
+        <Tätigkeit>Mutter von Jon Snow</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>Komplikationen bei der Geburt von Jon Snow</Todesursache>
+            <letzte_Folge>67</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Lysa Arrin">
+        <Herkunft>Schnellwasser</Herkunft>
+        <Fraktion>Haus Tully</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Regentin des Tals von Arryn</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>von Petyr Baelish durch das Mondtor gestoßen</Todesursache>
+            <letzte_Folge>37</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Maes Tyrell">
+        <Herkunft>Rosengarten</Herkunft>
+        <Fraktion>Haus Tyrell</Fraktion>
+        <Religion>Glaube an die Sieben</Religion>
+        <Tätigkeit>Oberhaupt des Hauses Tyrell</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>in der Septe von Baelor verbrannt</Todesursache>
+            <letzte_Folge>60</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Manke Rayder">
+        <Herkunft>unbekannt</Herkunft>
+        <Fraktion>unbekannt</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>König</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>von Jon Snow erschossen</Todesursache>
+            <letzte_Folge>41</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Margaery Tyrell">
+        <Herkunft>Rosengarten</Herkunft>
+        <Fraktion>Haus Tyrell</Fraktion>
+        <Religion>Glaube an die Sieben</Religion>
+        <Tätigkeit>Königin</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>in der Septe von Baelor verbrannt</Todesursache>
+            <letzte_Folge>60</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Meera Reet">
+        <Herkunft>Grauwasser Wacht</Herkunft>
+        <Fraktion>Haus Reet</Fraktion>
+        <Religion>Die alten Götter des Waldes</Religion>
+        <Tätigkeit>ältere Schwester von Jojen Reet</Tätigkeit>
+        <Status status="am Leben">
+            <letzte_Folge>64</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Melisandre">
+        <Herkunft>Asshai</Herkunft>
+        <Fraktion>Haus Baratheon von Drachenstein</Fraktion>
+        <Religion>Herr des Lichts</Religion>
+        <Tätigkeit>Rote Priesterin des Herrn des Lichts</Tätigkeit>
+        <Status status="am Leben">
+            <letzte_Folge>63</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Myrcella Baratheon">
+        <Herkunft>Königsmund</Herkunft>
+        <Fraktion>Haus Baratheon von Königsmund</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Prinzessin</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>vergiftet durch Ellaria Sand</Todesursache>
+            <letzte_Folge>50</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Oberyn Martell">
+        <Herkunft>Dorne</Herkunft>
+        <Fraktion>Haus Martell</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Prinz</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>Gregor Clegane zerquetschte seinen Schädel mit bloßen Händen</Todesursache>
+            <letzte_Folge>38</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Olenna Tyrell">
+        <Herkunft>Der Arbor</Herkunft>
+        <Fraktion>Haus Rothweyn</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Mutter von Maes Tyrell</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>trank freiwillig einen von Jaime Lennister vergifteten Wein</Todesursache>
+            <letzte_Folge>63</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Orell">
+        <Herkunft>jenseits der Mauer</Herkunft>
+        <Fraktion>unbekannt</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Warg</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>von Jon Snow im Kampf erstochen</Todesursache>
+            <letzte_Folge>29</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Osha">
+        <Herkunft>jenseits der Mauer</Herkunft>
+        <Fraktion>Haus Stark</Fraktion>
+        <Religion>Die alten Götter des Waldes</Religion>
+        <Tätigkeit>Wildling</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>von Ramsay Bolton erstochen</Todesursache>
+            <letzte_Folge>54</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Petyr Baelish">
+        <Herkunft>Tal von Arryn</Herkunft>
+        <Fraktion>Haus Baelish</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Meister der Münzen im Kleinen Rat</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>Kehle durchgeschnitten von Arya Stark</Todesursache>
+            <letzte_Folge>67</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Podrick Payn">
+        <Herkunft>unbekannt</Herkunft>
+        <Fraktion>Haus Payn</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Knappe von Tyrion Lennister und später von Brienne von Tarth</Tätigkeit>
+        <Status status="am Leben">
+            <letzte_Folge>67</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Pycelle">
+        <Herkunft>unbekannt</Herkunft>
+        <Fraktion>Orden der Maester</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Großmaester verschiedener Könige</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>von Qyburns kleinen Vögelchen erstochen</Todesursache>
+            <letzte_Folge>60</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Renly Baratheon">
+        <Herkunft>Sturmlande</Herkunft>
+        <Fraktion>Haus Baratheon von Sturmkap</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>König</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>erstochen von einem Schatten</Todesursache>
+            <letzte_Folge>15</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Rhaegar Targaryen">
+        <Herkunft>Königsmund</Herkunft>
+        <Fraktion>Haus Targaryen</Fraktion>
+        <Religion>Glaube an die Sieben</Religion>
+        <Tätigkeit>Prinz von Drachenstein</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>durch Robert Baratheon erschlagen</Todesursache>
+            <letzte_Folge>0</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Rickard Karstark">
+        <Herkunft>Karholt</Herkunft>
+        <Fraktion>Haus Stark</Fraktion>
+        <Religion>Die alten Götter des Waldes</Religion>
+        <Tätigkeit>Oberhaupt des Hauses Karstark</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>von Robb Stark enthauptet</Todesursache>
+            <letzte_Folge>25</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Rickard Stark">
+        <Herkunft>Winterfell</Herkunft>
+        <Fraktion>Haus Stark</Fraktion>
+        <Religion>Die alten Götter des Waldes</Religion>
+        <Tätigkeit>Oberhaupt des Hauses Stark</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>auf Befehl von Aerys II. Targaryen bei lebendigem Leibe verbrannt</Todesursache>
+            <letzte_Folge>0</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Rickon Stark">
+        <Herkunft>Winterfell</Herkunft>
+        <Fraktion>Haus Stark</Fraktion>
+        <Religion>Die alten Götter des Waldes</Religion>
+        <Tätigkeit>jüngerer Bruder von Arya, Bran, Robb und Sansa Stark</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>von Ramsay Bolton mit einem Pfeil erschossen</Todesursache>
+            <letzte_Folge>59</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Robb Stark">
+        <Herkunft>Schnellwasser</Herkunft>
+        <Fraktion>Haus Stark</Fraktion>
+        <Religion>Glaube an die Sieben</Religion>
+        <Tätigkeit>König</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>erstochen von Roose Bolton</Todesursache>
+            <letzte_Folge>29</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Robin Arryn">
+        <Herkunft>Königsmund</Herkunft>
+        <Fraktion>Haus Arryn</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Oberhaupt des Hauses Arryn</Tätigkeit>
+        <Status status="am Leben">
+            <letzte_Folge>54</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Robert Baratheon">
+        <Herkunft>Sturmkap</Herkunft>
+        <Fraktion>Haus Baratheon</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Lord von Sturmkap</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>tödlich verwundet durch einen Eber</Todesursache>
+            <letzte_Folge>7</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Rodrik Cassel">
+        <Herkunft>unbekannt</Herkunft>
+        <Fraktion>Haus Cassel</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Krieger</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>von Theon Graufreud enthauptet</Todesursache>
+            <letzte_Folge>16</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Roose Bolton">
+        <Herkunft>Grauenstein</Herkunft>
+        <Fraktion>Haus Bolton</Fraktion>
+        <Religion>Die alten Götter des Waldes</Religion>
+        <Tätigkeit>Oberhaupt des Hauses Bolton</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>erstochen von Ramsay Bolton</Todesursache>
+            <letzte_Folge>52</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Samwell Tarly">
+        <Herkunft>Hornberg</Herkunft>
+        <Fraktion>Haus Tarly</Fraktion>
+        <Religion>Die alten Götter des Waldes</Religion>
+        <Tätigkeit>Kämmerer von Maester Aemon</Tätigkeit>
+        <Status status="am Leben">
+            <letzte_Folge>67</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Sandor Clegane">
+        <Herkunft>unbekannt</Herkunft>
+        <Fraktion>Haus Baratheon von Königsmund</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Krieger</Tätigkeit>
+        <Status status="am Leben">
+            <letzte_Folge>67</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Sansa Stark">
+        <Herkunft>Winterfell</Herkunft>
+        <Fraktion>Haus Stark</Fraktion>
+        <Religion>Die alten Götter des Waldes</Religion>
+        <Tätigkeit>Regentin von Winterfell</Tätigkeit>
+        <Status status="am Leben">
+            <letzte_Folge>67</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Selyse Baratheon">
+        <Herkunft>Klarwasser</Herkunft>
+        <Fraktion>Haus Baratheon von Drachenstein</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Ehefrau von Stannis Baratheon</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>erhängte sich selbst</Todesursache>
+            <letzte_Folge>50</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Shae">
+        <Herkunft>Lorath</Herkunft>
+        <Fraktion>unbekannt</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Prostituierte</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>erwürgt durch Tyrion Lennister</Todesursache>
+            <letzte_Folge>40</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Sharin Baratheon">
+        <Herkunft>Kronlande</Herkunft>
+        <Fraktion>Haus Baratheon von Drachenstein</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Prinzessin</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>lebendig verbrannt als Opfer für den Herrn des Lichts</Todesursache>
+            <letzte_Folge>49</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Stannis Baratheon">
+        <Herkunft>Sturmkap</Herkunft>
+        <Fraktion>Haus Baratheon von Drachenstein</Fraktion>
+        <Religion>Herr des Lichts</Religion>
+        <Tätigkeit>Lord von Drachenstein</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>hingerichtet von Brienne von Tarth</Todesursache>
+            <letzte_Folge>50</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Styr">
+        <Herkunft>Thenn</Herkunft>
+        <Fraktion>Thenns</Fraktion>
+        <Religion>Die alten Götter des Waldes</Religion>
+        <Tätigkeit>Anführer des Wildlingsstamms der Thenn</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>von Jon Snow mit einem Hammer erschlagen</Todesursache>
+            <letzte_Folge>39</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Theon Graufreud">
+        <Herkunft>Peik</Herkunft>
+        <Fraktion>Haus Graufreud</Fraktion>
+        <Religion>Der ertrunkene Gott</Religion>
+        <Tätigkeit>Prinz</Tätigkeit>
+        <Status status="am Leben">
+            <letzte_Folge>67</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Thoros von Myr">
+        <Herkunft>Myr</Herkunft>
+        <Fraktion>Bruderschaft ohne Banner</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Roter Priester</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>in der Kälte erfroren</Todesursache>
+            <letzte_Folge>66</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Tommen Baratheon">
+        <Herkunft>Königsmund</Herkunft>
+        <Fraktion>Haus Baratheon von Königsmund</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Herr der Sieben Königslande</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>Suizid durch Sprung aus dem Fenster</Todesursache>
+            <letzte_Folge>60</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Trystan Martell">
+        <Herkunft>Sonnspeer</Herkunft>
+        <Fraktion>Haus Martell</Fraktion>
+        <Religion>Glaube an die Sieben</Religion>
+        <Tätigkeit>Prinz</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>von Obara Sand von hinten mit dem Speer in den Kopf getötet</Todesursache>
+            <letzte_Folge>51</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Tyrion Lennister">
+        <Herkunft>Casterlystein</Herkunft>
+        <Fraktion>Haus Lennister</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Hand der Königin</Tätigkeit>
+        <Status status="am Leben">
+            <letzte_Folge>67</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Tywin Lennister">
+        <Herkunft>Casterlystein</Herkunft>
+        <Fraktion>Haus Lennister</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Oberhaupt des Hauses Lennister</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>von Tyrion Lennister mit einer Armbrust erschossen</Todesursache>
+            <letzte_Folge>40</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Varys">
+        <Herkunft>Lys</Herkunft>
+        <Fraktion>Haus Targaryen</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Meister der Flüsterer</Tätigkeit>
+        <Status status="am Leben">
+            <letzte_Folge>67</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Victarion Graufreud">
+        <Herkunft>Peik</Herkunft>
+        <Fraktion>Haus Graufreud</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Lord Kapitän der Eisernen Flotte</Tätigkeit>
+        <Status status="am Leben">
+            <letzte_Folge>4</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Viserys Targaryen">
+        <Herkunft>Drachenstein</Herkunft>
+        <Fraktion>Haus Targaryen</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Titularoberhaupt des Hauses Targaryen</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>von Khal Drogo getötet</Todesursache>
+            <letzte_Folge>6</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Will">
+        <Herkunft>unbekannt</Herkunft>
+        <Fraktion>Nachtwache</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Nachtwächter</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>von Eddard Stark exekutiert</Todesursache>
+            <letzte_Folge>1</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Xaro Xhoan Daxos">
+        <Herkunft>Sommerinseln</Herkunft>
+        <Fraktion>Die Dreizehn</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>mächtiges Mitglied der Dreizehn von Qarth</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>von Daenerys Targaryen im eigenen Tresor eingesperrt</Todesursache>
+            <letzte_Folge>20</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Ygritte">
+        <Herkunft>jenseits der Mauer</Herkunft>
+        <Fraktion>freies Volk</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Wildling</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>von Olly mit einem Bogen erschossen</Todesursache>
+            <letzte_Folge>40</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Olly">
+        <Herkunft>Schenkung</Herkunft>
+        <Fraktion>Nachtwache</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Nachtwächter</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>von Jon Snow wegen Verrat erhängt</Todesursache>
+            <letzte_Folge>53</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Bronn">
+        <Herkunft>unbekannt</Herkunft>
+        <Fraktion>Haus Lennister</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Ritter</Tätigkeit>
+        <Status status="am Leben">
+            <letzte_Folge>67</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Jaqen H'ghar">
+        <Herkunft>Lorath</Herkunft>
+        <Fraktion>Männer ohne Gesicht</Fraktion>
+        <Religion>Vielgesichtiger Gott</Religion>
+        <Tätigkeit>Gesichtsloser Mann</Tätigkeit>
+        <Status status="am Leben">
+            <letzte_Folge>58</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Night King">
+        <Herkunft>unbekannt</Herkunft>
+        <Fraktion>Weiße Wanderer</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Anführer der weißen Wanderer</Tätigkeit>
+        <Status status="am Leben">
+            <letzte_Folge>67</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="White Walker">
+        <Herkunft>Land des ewigen Winters</Herkunft>
+        <Fraktion>Weiße Wanderer</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Mitglied der weißen Wanderer</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>von Samwell Tarly mit einem Dolch aus Drachenglas erstochen</Todesursache>
+            <letzte_Folge>28</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Zit">
+        <Herkunft>unbekannt</Herkunft>
+        <Fraktion>Bruderschaft ohne Banner</Fraktion>
+        <Religion>Herr des Lichts</Religion>
+        <Tätigkeit>Mitglied der Bruderschaft ohne Banner</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>von Sandor Clegane am Galgen hingerichtet</Todesursache>
+            <letzte_Folge>58</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Anguy">
+        <Herkunft>unbekannt</Herkunft>
+        <Fraktion>Bruderschaft ohne Banner</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Mitglied der Bruderschaft ohne Banner</Tätigkeit>
+        <Status status="am Leben">
+            <letzte_Folge>27</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Vala">
+        <Herkunft>Meereen</Herkunft>
+        <Fraktion>Söhne der Harpyie</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Prostituierte</Tätigkeit>
+        <Status status="am Leben">
+            <letzte_Folge>53</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Pyat Pree">
+        <Herkunft>Qarth</Herkunft>
+        <Fraktion>Hexenmeister von Qarth</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Hexenmeister von Qarth</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>lebendig verbrannt durch Daenerys Targaryens Drachen</Todesursache>
+            <letzte_Folge>20</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="High Sparrow">
+        <Herkunft>unbekannt</Herkunft>
+        <Fraktion>Spatzen</Fraktion>
+        <Religion>Glaube an die Sieben</Religion>
+        <Tätigkeit>Anführer der Spatzen</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>bei der Zerstörung der großen Septe von Baelor durch Seefeuer verbrannt</Todesursache>
+            <letzte_Folge>60</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Grey Worm">
+        <Herkunft>Astapor</Herkunft>
+        <Fraktion>Die Unbefleckten</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Krieger</Tätigkeit>
+        <Status status="am Leben">
+            <letzte_Folge>67</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="White Rat">
+        <Herkunft>unbekannt</Herkunft>
+        <Fraktion>Die Unbefleckten</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Krieger</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>Kehle aufgeschlitzt von einem Mitglied der Söhne der Harpyie</Todesursache>
+            <letzte_Folge>41</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Amaya">
+        <Herkunft>Meereen</Herkunft>
+        <Fraktion>Amayas Gruppe</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Anführerin einer Gruppe ehemaliger Sklaven</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>von Whitehill-Soldaten mit Pfeilen erschossen</Todesursache>
+            <letzte_Folge>6</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="The Beast">
+        <Herkunft>Meereen</Herkunft>
+        <Fraktion>Amayas Gruppe</Fraktion>
+        <Religion>unbekannt</Religion>
+        <Tätigkeit>Krieger</Tätigkeit>
+        <Status status="verstorben">
+            <Todesursache>durch einen Speer von Harys getötet</Todesursache>
+            <letzte_Folge>5</letzte_Folge>
+        </Status>
+    </Charakter>
+    
+    <Charakter name="Syrio Forel">
+        <Herkunft>Braavos</Herkunft>
+        <Fraktion>Haus Stark</Fraktion>
+        <Religion>Gott des Todes</Religion>
+        <Tätigkeit>Meister des Schwertkampfes</Tätigkeit>
+        <Status status="unbekannt">
+            <letzte_Folge>8</letzte_Folge>
+        </Status>
+    </Charakter>
+</Game_of_Thrones>
